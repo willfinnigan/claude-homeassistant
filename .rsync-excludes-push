@@ -34,6 +34,9 @@ image/
 tmp_backups/
 www/
 
+# Repo-only template (not present on HA)
+secrets.yaml.example
+
 # Temporary files
 *.tmp
 *.temp

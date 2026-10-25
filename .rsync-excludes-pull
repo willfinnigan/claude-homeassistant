@@ -40,6 +40,9 @@ www/
 # Add-on runtime data (Zigbee2MQTT database, network keys, logs)
 zigbee2mqtt/
 
+# Repo-only template (not present on HA)
+secrets.yaml.example
+
 # Miscellaneous
 .uuid
 .cache/
